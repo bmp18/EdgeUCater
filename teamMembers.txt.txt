@@ -1,3 +1,4 @@
 Name			Email				gitUserName
 ==============================================================
 James Hawthorne		jmh145@students.uwf.edu		jhawthorne2
+Michael Moore     mjm61@students.uwf.edu    hamhock1570
